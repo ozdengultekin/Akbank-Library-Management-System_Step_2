@@ -1,9 +1,10 @@
 # Akbank-Library-Management-System_Step_2
 ## 📚 Python Kütüphane Uygulaması (ISBN ile Open Library API)
-GİRİŞ
+## GİRİŞ
 Bu repo, Global AI Hub Python 202 Bootcamp sürecinde bitirme projesini sunmak amacıyla oluşturulmuştur. Proje, 3 aşamalı eğitim sürecinin ikinci aşaması kapsamında geliştirilmiştir.
 Bu proje, Python kullanarak Nesne Yönelimli Programlama (OOP) prensiplerine uygun bir terminal tabanlı kütüphane sistemi sağlar. Kitap ekleme, silme, arama ve listeleme işlemleri yapılabilir. Tüm veriler library.json dosyasında kalıcı olarak saklanır.
-ÖZELLİKLER
+
+## ÖZELLİKLER
 📖 Kitap ekleme: Sadece ISBN girilir, başlık ve yazar bilgisi Open Library API üzerinden alınır
 🔢 ISBN doğrulama:
 Boş olamaz
