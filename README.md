@@ -54,9 +54,9 @@ Kitap ekleme sırasında başlık ve yazar bilgisi otomatik çekilir.
 
 ## TESTLER
 
-Projede testler pytest ile yazılmıştır.
-Çalıştırmak için:
-pytest tests/test_library.py -v
+Projede testler pytest ile yazılmıştır.<br>
+Çalıştırmak için:<br>
+pytest tests/test_library.py -v<br>
 
 ## TEST SONUÇLARI
 
