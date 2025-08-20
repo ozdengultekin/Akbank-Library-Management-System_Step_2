@@ -1,0 +1,5 @@
+httpx>=1.0.0           # Open Library API çağrıları için
+pytest>=8.0.0          # Testler için
+pytest-mock>=4.0.0     # Mock ile API çağrılarını test etmek için
+
+#pip install -r requirements.txt terminal de bu komut çalıştırılmalıdır.
