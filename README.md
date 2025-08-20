@@ -42,15 +42,17 @@ Uygulamayı başlatın:
 Terminale python main.py yazın. 
 
 Menü üzerinden seçim yapın:
-1️⃣ Kitap Ekle (ISBN ile)
-2️⃣ Kitap Sil (ISBN ile)
-3️⃣ Kitapları Listele
-4️⃣ Kitap Ara (ISBN ile)
-5️⃣ Çıkış
-Bilgileri girerken:
-ISBN 13 haneli ve sadece rakamlardan oluşmalı
-Zaten eklenmiş ISBN girilirse uyarı mesajı gösterilir
-Kitap ekleme sırasında başlık ve yazar bilgisi otomatik çekilir.
+1️⃣ Kitap Ekle (ISBN ile)<br>
+2️⃣ Kitap Sil (ISBN ile)<br>
+3️⃣ Kitapları Listele<br>
+4️⃣ Kitap Ara (ISBN ile)<br>
+5️⃣ Çıkış<br>
+Bilgileri girerken:<br>
+ISBN 13 haneli ve sadece rakamlardan oluşmalı<br>
+Zaten eklenmiş ISBN girilirse uyarı mesajı gösterilir.<br>
+Kitap ekleme sırasında başlık ve yazar bilgisi otomatik çekilir. JSON dosyasına kaydedilir.<br>
+ISBN ekrana yazdırılacağı zaman 978-1857150841 formatında bastırılır. JSON dosyasında 9781857150841 şeklinde kaydedilir. 
+
 
 ## TESTLER
 
